@@ -9,7 +9,7 @@ We applied machine learning approaches including support vector machine (SVM) an
 
 ### Materials
 
-**PDF file** [[link to the slide]](https://github.com/qiyoyou/Application-of-Computational-Biology/blob/master/Group-7-final-report-Predict-Credit-Card-Default-Rate.pptx)
+**PDF file** [[link to the slide]](https://github.com/qiyoyou/Application-of-Computational-Biology/blob/master/Group-7-final-report-Predict-Credit-Card-Default-Rate.pdf)
 
 
 
